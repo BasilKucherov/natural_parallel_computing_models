@@ -1,0 +1,1 @@
+add_executable(sequential_exec src/sequential_example.cpp)
